@@ -67,3 +67,34 @@ h1 {
   font-size: 1.5rem;
   color:black;
 }
+
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  padding:5% 20%;
+  color: white;
+}
+.testimonialSalutation{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  line-height: 2;
+}
+.testimonialImage{
+  width: 100px;
+  border-radius: 100%;
+}
+
+
+#press{
+  background-color: #ef8172;
+  padding: 0 10%;
+  text-align: center;
+}
+.pressImage{
+  width: 15%;
+  padding: 3%;
+}
+
+hr{
+  margin-top: 0;
+}
