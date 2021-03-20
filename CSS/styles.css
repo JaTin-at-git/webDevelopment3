@@ -37,11 +37,20 @@ h1 {
   margin: 5% 3% 5% 0;
 }
 
+.iphoneImageDiv{
+  position: absolute;
+  right: -20px;
+  width: 40%;
+}
 .iphone-image{
-  width: 60%;
-  transform: rotate(25deg);
+  transform: rotate(20deg);
+  width: 70%;
 }
 
+#features{
+  background-color: white;
+  position: relative;
+}
 .featureIcon{
   color: #ef8172;
   font-size: 3rem;
