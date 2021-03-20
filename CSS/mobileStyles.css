@@ -12,6 +12,10 @@
     text-align: center;
   }
 
+  .download-button{
+    margin: 2% 0;
+  }
+
   .iphoneImageDiv{
     position: static;
     width: 100%;
@@ -19,7 +23,7 @@
 
   .iphone-image {
     transform: rotate(0);
-    width: 60%;
+    width: 70%;
   }
 
   #features{
@@ -59,4 +63,31 @@
     margin: 2% 3%;
   }
 
+  .hrhr{
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  #pricing{
+    padding-top: 8%;
+  }
+
+  .card{
+    padding: 0;
+    margin-top: 5px;
+    line-height: 1;
+  }
+
+  #cta{
+    margin-top: 10px;
+    padding: 5% 15%;
+  }
+
+  .ctaRemark{
+    font-weight: 500;
+  }
+
+  .ctaBtn{
+    margin: 1%;
+  }
 }
