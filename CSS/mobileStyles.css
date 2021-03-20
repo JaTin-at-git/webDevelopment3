@@ -1,3 +1,62 @@
-@media  only screen and (max-width: 900px) {
+@media only screen and (max-width: 900px) {
+  .brand {
+    font-size: 1rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+
+  .topContainer {
+    text-align: center;
+  }
+
+  .iphoneImageDiv{
+    position: static;
+    width: 100%;
+  }
+
+  .iphone-image {
+    transform: rotate(0);
+    width: 60%;
+  }
+
+  #features{
+    background-color: white;
+    position: static;
+  }
+
+
+  #testimonials{
+    background-color: #ef8172;
+    text-align: center;
+    color: white;
+    padding: 1%;
+  }
+
+  .testimonialSalutation{
+    font-family: 'Montserrat';
+    font-weight: 500;
+    line-height: 1.25;
+
+  }
+  .testimonialImage{
+    width: 80px;
+    border-radius: 100%;
+    margin-right: 10px;
+  }
+  .carousel-item{
+    padding: 5% 15%;
+  }
+
+  #press{
+    padding: 0;
+    text-align: center;
+  }
+  .pressImage{
+    width: 17.5%;
+    margin: 2% 3%;
+  }
 
 }
