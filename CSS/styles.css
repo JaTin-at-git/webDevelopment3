@@ -101,3 +101,25 @@ h1 {
 hr{
   margin-top: 0;
 }
+
+#pricing{
+  text-align: center;
+  padding: 1% 10%;
+}
+.card{
+  padding: 0;
+  margin-top: 24px;
+}
+
+.pricingBtn{
+  width: 90%;
+}
+
+h2{
+  font-family: 'Montserrat';
+  font-weight: bold;
+}
+
+h3{
+  font-family: 'Montserrat';
+}
