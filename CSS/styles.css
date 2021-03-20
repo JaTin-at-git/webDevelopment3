@@ -132,3 +132,31 @@ h2{
 h3{
   font-family: 'Montserrat';
 }
+
+#cta{
+  background-color: #ff4c68;
+  padding: 5% 30%;
+  text-align: center;
+}
+
+.ctaRemark{
+  font-family: 'Montserrat';
+  font-weight: bold;
+  color: white;
+  margin-bottom: 25px;
+}
+.ctaBtn{
+  margin: 1%;
+}
+
+#footer{
+  text-align: center;
+  padding-top: 5%;
+}
+.footerIcons{
+  margin: 0.5%;
+}
+
+.copyright{
+  color: #8f8f8f;
+}
